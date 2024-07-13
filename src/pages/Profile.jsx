@@ -51,7 +51,7 @@ function Profile() {
           <h1 className=" text-3xl md:text-5xl font-nsans-bold my-2">
             My Shows
           </h1>
-          <p className="font-nsans-light text-gray-400 text-lg">{user.email}</p>
+          <p className="font-nsans-light text-white text-lg">{user.email}</p>
         </div>
       </div>
       {/* movieRow */}
